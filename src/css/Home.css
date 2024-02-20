@@ -1,0 +1,24 @@
+/* Home.css */
+.container {
+    max-width: 600px;
+    margin: 0 auto;
+  }
+  
+  h1 {
+    color: #333;
+  }
+  
+  .list-group-item {
+    background-color: #f8f9fa;
+    border: none;
+  }
+  
+  .list-group-item a {
+    color: #007bff;
+    text-decoration: none;
+  }
+  
+  .list-group-item a:hover {
+    text-decoration: underline;
+  }
+  
